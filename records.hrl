@@ -1,0 +1,2 @@
+-record(todo, {status=reminder, who=joe, text}).
+-record(person, {name, lastname, age, status="enter some status"}).
